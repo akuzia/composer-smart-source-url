@@ -1,5 +1,5 @@
 {
-    "name": "linniksa/composer-smart-source-url",
+    "name": "akuzia/composer-smart-source-url",
     "description": "Helps composer choose the right url for private packages from gitlab",
     "license": "MIT",
     "type": "composer-plugin",
